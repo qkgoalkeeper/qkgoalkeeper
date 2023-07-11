@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to qkgoalkeeper's github page 👋
+
+<p>
+<a href="https://qkgoalkeeper.github.io"><img src="https://img.shields.io/static/v1?label=Blog&message=Github Blog&color=red"/></a>
+<a href="https://space.bilibili.com/3960188"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
+</p>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkgoalkeeper&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=qkgoalkeeper&show_icons=true&theme=dark&count_private=true)
 
 <!--
 **qkgoalkeeper/qkgoalkeeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
